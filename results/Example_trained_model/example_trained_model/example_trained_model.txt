@@ -1,0 +1,58 @@
+Batch size: 4
+Epochs: 10
+Best training epoch: 10
+Best validation epoch: 9
+Trained on:
+slice_0012.tif
+slice_0046.tif
+slice_0010.tif
+slice_0013.tif
+slice_0030.tif
+slice_0007.tif
+slice_0018.tif
+slice_0000.tif
+slice_0041.tif
+slice_0001.tif
+slice_0009.tif
+slice_0036.tif
+slice_0045.tif
+slice_0039.tif
+slice_0047.tif
+slice_0026.tif
+slice_0035.tif
+slice_0015.tif
+slice_0017.tif
+slice_0025.tif
+slice_0023.tif
+slice_0027.tif
+slice_0032.tif
+slice_0016.tif
+slice_0043.tif
+slice_0031.tif
+slice_0008.tif
+slice_0022.tif
+slice_0019.tif
+slice_0004.tif
+slice_0021.tif
+slice_0042.tif
+slice_0048.tif
+slice_0024.tif
+slice_0005.tif
+slice_0044.tif
+slice_0033.tif
+slice_0034.tif
+slice_0038.tif
+slice_0037.tif
+Validated on on:
+slice_0014.tif
+slice_0011.tif
+slice_0049.tif
+slice_0029.tif
+slice_0040.tif
+slice_0002.tif
+slice_0006.tif
+slice_0020.tif
+slice_0003.tif
+slice_0028.tif
+
+Elapsed time [s] 135.15
